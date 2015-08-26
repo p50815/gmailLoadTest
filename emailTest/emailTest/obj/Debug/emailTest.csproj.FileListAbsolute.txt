@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2013\Projects\emailTest\emailTest\bin\Debug\emailTest.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\emailTest\emailTest\obj\Debug\emailTest.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\emailTest\emailTest\obj\Debug\emailTest.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\emailTest\emailTest\obj\Debug\emailTest.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\emailTest\emailTest\obj\Debug\emailTest.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\emailTest\emailTest\bin\Debug\emailTest.exe
+c:\users\administrator\documents\visual studio 2013\Projects\emailTest\emailTest\bin\Debug\emailTest.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\emailTest\emailTest\bin\Debug\OpenPop.dll
+c:\users\administrator\documents\visual studio 2013\Projects\emailTest\emailTest\obj\Debug\emailTest.exe
+c:\users\administrator\documents\visual studio 2013\Projects\emailTest\emailTest\obj\Debug\emailTest.pdb
+C:\Users\alpha\Desktop\台電\emailTest\emailTest\bin\Debug\emailTest.exe.config
+C:\Users\alpha\Desktop\台電\emailTest\emailTest\obj\Debug\emailTest.exe
+C:\Users\alpha\Desktop\台電\emailTest\emailTest\obj\Debug\emailTest.pdb
+C:\Users\alpha\Desktop\台電\emailTest\emailTest\bin\Debug\emailTest.exe
+C:\Users\alpha\Desktop\台電\emailTest\emailTest\bin\Debug\emailTest.pdb
+C:\Users\alpha\Desktop\台電\emailTest\emailTest\obj\Debug\emailTest.csprojResolveAssemblyReference.cache
+C:\Users\alpha\Desktop\台電\emailTest\emailTest\obj\Debug\emailTest.Form1.resources
+C:\Users\alpha\Desktop\台電\emailTest\emailTest\obj\Debug\emailTest.Properties.Resources.resources
+C:\Users\alpha\Desktop\台電\emailTest\emailTest\obj\Debug\emailTest.csproj.GenerateResource.Cache
